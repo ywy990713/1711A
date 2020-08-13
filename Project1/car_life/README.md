@@ -42,3 +42,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - push项目
 - pull request
 - merge pull request
+#### pr合并练习
+8.13
